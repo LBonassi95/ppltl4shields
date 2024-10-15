@@ -1,0 +1,1 @@
+((robotat_lab & Y(!(robotat_lab))) -> (!coffeeat_lab)) & ((robotat_o1 & Y(!(robotat_o1))) -> (!coffeeat_o1)) & ((robotat_o2 & Y(!(robotat_o2))) -> (!coffeeat_o2)) & ((robotat_o3 & Y(!(robotat_o3))) -> (!coffeeat_o3)) & ((robotat_o4 & Y(!(robotat_o4))) -> (!coffeeat_o4)) & ((robotat_o5 & Y(!(robotat_o5))) -> (!coffeeat_o5)) & ((robotat_o6 & Y(!(robotat_o6))) -> (!coffeeat_o6))

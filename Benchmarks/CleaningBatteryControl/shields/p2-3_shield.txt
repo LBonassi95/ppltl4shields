@@ -1,0 +1,1 @@
+(Y(!(charge_l4)) & charge_l4) -> Y(charge_l1)

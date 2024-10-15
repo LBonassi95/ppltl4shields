@@ -1,0 +1,1 @@
+H(((hascoffee | Y(hascoffee) | Y(Y(hascoffee)) | Y(Y(Y(hascoffee)))))) & (coffeeat_lab & coffeeat_o1 & coffeeat_o2 & coffeeat_o3 & coffeeat_o4 & coffeeat_o5)

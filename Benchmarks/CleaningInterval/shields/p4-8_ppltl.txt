@@ -1,0 +1,1 @@
+H((charge_l4 | Y(charge_l4) | Y(Y(charge_l4)) | Y(Y(Y(charge_l4))))) & (cleaned_r1_c33 & cleaned_r1_c21 & cleaned_r2_c31 & cleaned_r2_c12 & cleaned_r3_c31 & cleaned_r3_c32 & cleaned_r4_c13 & cleaned_r4_c11 & outside)

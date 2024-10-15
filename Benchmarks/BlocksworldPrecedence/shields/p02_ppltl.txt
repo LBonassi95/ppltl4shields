@@ -1,0 +1,1 @@
+(H((ontable_b1 -> Y(O(ontable_b2))) & (ontable_b3 -> Y(O(ontable_b4)))) & (ontable_b1 & ontable_b2 & ontable_b3 & ontable_b4 & ontable_b5))

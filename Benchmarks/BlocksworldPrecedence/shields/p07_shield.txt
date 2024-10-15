@@ -1,0 +1,1 @@
+(ontable_b1 -> Y(O(ontable_b2))) & (ontable_b3 -> Y(O(ontable_b4))) & (ontable_b5 -> Y(O(ontable_b6))) & (ontable_b7 -> Y(O(ontable_b8))) & (ontable_b9 -> Y(O(ontable_b10))) & (ontable_b11 -> Y(O(ontable_b12))) & (ontable_b13 -> Y(O(ontable_b14)))

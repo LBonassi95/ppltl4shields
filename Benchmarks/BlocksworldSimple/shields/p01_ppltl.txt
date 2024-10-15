@@ -1,0 +1,1 @@
+(H(!(holdingtwo))) & (ontable_b1 & ontable_b2 & ontable_b3)
